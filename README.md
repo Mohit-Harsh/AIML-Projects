@@ -25,19 +25,19 @@
 
 <br>
 
-## Customer Support Chatbot
+## Airline Customer Support Chatbot
 
-<a href="https://github.com/Mohit-Harsh/CodingWebsiteRepository"><img id="hack-stack-img" src="./assets/hackstack.jpg"></a>
+<a href="https://github.com/Mohit-Harsh/Customer-Support-Bot"><img id="hack-stack-img" src="./assets/chatbot.jpg"></a>
 
 `Click Image -> Repo`
 
 ### About The Project
 
-This is a `React` and `Django` Application for analyzing your coding performance using interactive plots and generating necessary recommendations.
+This is a `Chatbot` built for answering Airline FAQs and Enquiries using `Prompt Engineering`. 
 
 ### Built With
 
-![Django] ![React.js] ![HTML] ![CSS] ![Bootstrap] ![scikitlearn] ![tensorflow]
+![langchain] ![streamlit] ![tensorflow]
 
 <br>
 
@@ -99,7 +99,7 @@ In this project we have implemented an `AI Powered Search Engine` for a Movies W
 [Bootstrap]:https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [scikitlearn]:https://img.shields.io/badge/Scikit--Learn-white?style=for-the-badge&logo=scikit-learn
-[tensorflow]:https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow
-[spring]:https://img.shields.io/badge/Spring--Boot-249141?style=for-the-badge&logo=spring&logoColor=white
-[rabbitmq]:https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq&logoColor=white
+[tensorflow]:https://img.shields.io/badge/Tensorflow-425066?style=for-the-badge&logo=tensorflow
+[langchain]:https://img.shields.io/badge/Langchain-black?style=for-the-badge&logo=openai&logoColor=white
+[streamlit]:https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white
 [postgres]:https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
