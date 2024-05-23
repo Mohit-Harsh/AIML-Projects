@@ -9,16 +9,16 @@
       <a href="#customer-support-chatbot">Customer Support Chatbot</a>
     </li>
     <li>
-      <a href="#hack/stack">News Headline Tagger</a>
+      <a href="#news-headline-tagger">News Headline Tagger</a>
     </li>
     <li>
-      <a href="#job-posts-microservice">Parts Of Speech Tagger</a>
+      <a href="#parts-of-speech-tagger">Parts Of Speech Tagger</a>
     </li>
     <li>
-      <a href="#social-media-posts-microservice">Python Code Generator</a>
+      <a href="#python-code-generator">Python Code Generator</a>
     </li>
     <li>
-      <a href="#movies-website">Movie Synopsis Search</a>
+      <a href="#movie-synopsis-search">Movie Synopsis Search</a>
     </li>
   </ol>
 </details>
@@ -41,9 +41,9 @@ This is a `Chatbot` built for answering Airline FAQs and Enquiries using `Prompt
 
 <br>
 
-## Job Posts Microservice
+## News Headline Tagger
 
-<a href="https://github.com/Mohit-Harsh/JobPosts-Spring-React"><img src="./assets/JobPost diagram.svg"></a>
+<a href="https://github.com/Mohit-Harsh/News-Headline-Tagger"><img src="./assets/JobPost diagram.svg"></a>
 
 `Click Image -> Repo`
 
@@ -57,7 +57,7 @@ A Web Application to Post Job Applications built using `Spring` (backend) and `R
 
 <br>
 
-## Social Media Posts Microservice
+## Parts Of Speech Tagger
 
 <a href="https://github.com/Mohit-Harsh/JobPosts-Spring-React"><img src="./assets/social-media-posts.gif"></a>
 
@@ -75,6 +75,22 @@ This project implements 2 important features of a `Social Media Messaging App` -
 <br>
 
 ## Movie Synopsis Search
+
+<a href="https://github.com/Mohit-Harsh/Movie-Synopsis-Search"><img src="./assets/movie website.jpg"></a>
+
+`Click Image -> Repo`
+
+### About The Project
+
+In this project we have implemented an `AI Powered Search Engine` for a Movies Website that can a search a movie using its Plot, Name or Cast and Crew.
+
+### Built With
+
+![Django] ![HTML] ![CSS] ![Bootstrap] ![scikitlearn] ![tensorflow]
+
+<br>
+
+## Python Code Generator
 
 <a href="https://github.com/Mohit-Harsh/Movie-Synopsis-Search"><img src="./assets/movie website.jpg"></a>
 
