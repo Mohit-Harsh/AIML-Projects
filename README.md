@@ -43,17 +43,17 @@ This is a `Chatbot` built for answering Airline FAQs and Enquiries using `Prompt
 
 ## News Headline Tagger
 
-<a href="https://github.com/Mohit-Harsh/News-Headline-Tagger"><img src="./assets/JobPost diagram.svg"></a>
+<a href="https://github.com/Mohit-Harsh/News-Headline-Tagger"><img src="./assets/headline-tagger.jpg"></a>
 
 `Click Image -> Repo`
 
 ### About The Project
 
-A Web Application to Post Job Applications built using `Spring` (backend) and `React` (frontend). The application follows `Microservices Design Principles`.
+This is an `LSTM` based `Deep Learning` model that segregates News Headlines into specific categories like Sports, Entertainment, Politics etc.
 
 ### Built With
 
-![spring] ![React.js] ![postgres] ![rabbitmq] ![HTML] ![CSS]
+![tensorflow] ![streamlit] ![python]
 
 <br>
 
@@ -118,4 +118,4 @@ In this project we have implemented an `AI Powered Search Engine` for a Movies W
 [tensorflow]:https://img.shields.io/badge/Tensorflow-425066?style=for-the-badge&logo=tensorflow
 [langchain]:https://img.shields.io/badge/Langchain-black?style=for-the-badge&logo=openai&logoColor=white
 [streamlit]:https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white
-[postgres]:https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
+[python]:https://img.shields.io/badge/Python-3778af?style=for-the-badge&logo=python&logoColor=white
