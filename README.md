@@ -59,7 +59,7 @@ This is an `LSTM` based `Deep Learning` model that segregates News Headlines int
 
 ## Parts Of Speech Tagger
 
-<a href="https://github.com/Mohit-Harsh/JobPosts-Spring-React"><img src="./assets/social-media-posts.gif"></a>
+<a href="https://github.com/Mohit-Harsh/JobPosts-Spring-React"><img src="./assets/pos-tagger.jpg"></a>
 
 `Click Image -> Repo`
 
