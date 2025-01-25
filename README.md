@@ -74,39 +74,6 @@ This project implements 2 important features of a `Social Media Messaging App` -
 
 <br>
 
-## Movie Synopsis Search
-
-<a href="https://github.com/Mohit-Harsh/Movie-Synopsis-Search"><img src="./assets/movie website.jpg"></a>
-
-`Click Image -> Repo`
-
-### About The Project
-
-In this project we have implemented an `AI Powered Search Engine` for a Movies Website that can a search a movie using its Plot, Name or Cast and Crew.
-
-### Built With
-
-![Django] ![HTML] ![CSS] ![Bootstrap] ![scikitlearn] ![tensorflow]
-
-<br>
-
-## Python Code Generator
-
-<a href="https://github.com/Mohit-Harsh/Movie-Synopsis-Search"><img src="./assets/movie website.jpg"></a>
-
-`Click Image -> Repo`
-
-### About The Project
-
-In this project we have implemented an `AI Powered Search Engine` for a Movies Website that can a search a movie using its Plot, Name or Cast and Crew.
-
-### Built With
-
-![Django] ![HTML] ![CSS] ![Bootstrap] ![scikitlearn] ![tensorflow]
-
-
-
-
 
 
 [Django]:https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django
