@@ -86,3 +86,6 @@ This project implements 2 important features of a `Social Media Messaging App` -
 [langchain]:https://img.shields.io/badge/Langchain-black?style=for-the-badge&logo=openai&logoColor=white
 [streamlit]:https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white
 [python]:https://img.shields.io/badge/Python-3778af?style=for-the-badge&logo=python&logoColor=white
+[spring]:https://img.shields.io/badge/Spring--Boot-249141?style=for-the-badge&logo=spring&logoColor=white
+[rabbitmq]:https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq&logoColor=white
+[postgres]:https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
