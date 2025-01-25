@@ -65,11 +65,11 @@ This is an `LSTM` based `Deep Learning` model that segregates News Headlines int
 
 ### About The Project
 
-This project implements 2 important features of a `Social Media Messaging App` -> managing `User Posts` and `User Notifications` using Microservices Architecture.
+Parts of Speech Tagger is a Streamlit Application that takes a Sentence as input and generates a POS(parts of speech) Tag for each word/token in the sentence. The model uses LSTM architechture to generate the pos tags.
 
 ### Built With
 
-![spring] ![rabbitmq] ![postgres]
+![tensorflow] ![scikitlearn] ![streamlit]
 
 
 <br>
