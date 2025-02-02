@@ -2,29 +2,6 @@
 
 <br>
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#customer-support-chatbot">Customer Support Chatbot</a>
-    </li>
-    <li>
-      <a href="#news-headline-tagger">News Headline Tagger</a>
-    </li>
-    <li>
-      <a href="#parts-of-speech-tagger">Parts Of Speech Tagger</a>
-    </li>
-    <li>
-      <a href="#python-code-generator">Python Code Generator</a>
-    </li>
-    <li>
-      <a href="#movie-synopsis-search">Movie Synopsis Search</a>
-    </li>
-  </ol>
-</details>
-
-<br>
-
 ## Airline Customer Support Chatbot
 
 <a href="https://github.com/Mohit-Harsh/Customer-Support-Bot"><img id="hack-stack-img" src="./assets/chatbot.jpg"></a>
@@ -40,6 +17,20 @@ This is a `Chatbot` built for answering Airline FAQs and Enquiries using `Prompt
 ![langchain] ![streamlit] ![tensorflow]
 
 <br>
+
+## SRIDNet - Super Resolution Image Denoiser Network
+
+<a href="https://github.com/Mohit-Harsh/ImageDenoising"><img src="./assets/image-denoiser.png"></a>
+
+`Click Image -> Repo`
+
+### About The Project
+
+SRIDNet is a lightweight yet powerful Convolutional Neural Network (CNN) model for image denoising that merges super-resolution and denoising techniques into a single architecture. Optimized for real-life applications, SRIDNet achieves impressive image clarity with a fraction of the computational load demanded by state-of-the-art models.
+
+### Built With
+
+![tensorflow]
 
 ## News Headline Tagger
 
@@ -59,7 +50,7 @@ This is an `LSTM` based `Deep Learning` model that segregates News Headlines int
 
 ## Parts Of Speech Tagger
 
-<a href="https://github.com/Mohit-Harsh/JobPosts-Spring-React"><img src="./assets/pos-tagger.jpg"></a>
+<a href="https://github.com/Mohit-Harsh/Parts-of-speech-tagger"><img src="./assets/pos-tagger.jpg"></a>
 
 `Click Image -> Repo`
 
